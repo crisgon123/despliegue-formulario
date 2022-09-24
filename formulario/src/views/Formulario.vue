@@ -1,5 +1,6 @@
 <template>
   <div class="row">
+    <h1>Mi sitio está en línea!!!</h1>
     <div class="column registro">
       <h1>Registrar pelicula</h1>
       <form @submit.prevent="enviarFormulario">
